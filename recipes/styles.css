@@ -1,0 +1,27 @@
+
+* {
+    /* debugging */
+    border: none;
+}
+.recipe, .home {
+    border-width: 1px;
+
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 14px;
+    /* a little space off the margin
+    margin-left: 35px;
+    /* had to have some limit */
+    width: 600px;    
+    max-width: 100%;
+    /* Center the entire table. */
+    margin: 0 auto;
+  }
+  
+img {
+    max-width: 100%;
+}  
+
+li {
+    padding: 0px;
+    margin: 5px;
+}
